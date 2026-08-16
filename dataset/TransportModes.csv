@@ -1,0 +1,4 @@
+ModeID,ModeName,CostPerKmPerKg,CostPerKmPerM3,FixedCostPerShipment,AvgSpeed_kmh,MaxWeight_kg,MaxVolume_m3
+M1,FTL,0.08,2.5,3500,50,20000,60
+M2,LTL,0.15,4.0,1200,40,5000,18
+M3,Express,0.35,9.0,5000,80,3000,12

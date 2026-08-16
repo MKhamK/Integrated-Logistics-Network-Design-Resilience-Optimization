@@ -1,0 +1,21 @@
+ProductID,Name,Category,ValueClass,Volume_m3_per_unit,Weight_kg_per_unit,HoldingCost_per_unit_week,IsFragile
+SKU01,Product Group 1,Fast,High,0.05,1.2,1.8,Yes
+SKU02,Product Group 2,Fast,High,0.08,2.0,2.1,No
+SKU03,Product Group 3,Fast,High,0.03,0.8,1.5,No
+SKU04,Product Group 4,Fast,Medium,0.10,3.5,1.2,No
+SKU05,Product Group 5,Fast,Medium,0.12,4.0,1.3,No
+SKU06,Product Group 6,Fast,Medium,0.07,2.5,1.0,No
+SKU07,Product Group 7,Medium,High,0.15,6.0,2.8,Yes
+SKU08,Product Group 8,Medium,High,0.18,7.5,3.0,No
+SKU09,Product Group 9,Medium,Medium,0.14,5.5,2.0,No
+SKU10,Product Group 10,Medium,Medium,0.16,6.5,2.2,Yes
+SKU11,Product Group 11,Medium,Medium,0.12,4.8,1.7,No
+SKU12,Product Group 12,Medium,Medium,0.10,4.0,1.5,No
+SKU13,Product Group 13,Medium,Medium,0.20,8.0,2.5,No
+SKU14,Product Group 14,Medium,Low,0.22,9.5,2.7,No
+SKU15,Product Group 15,Slow,Medium,0.20,10.0,3.0,Yes
+SKU16,Product Group 16,Slow,Medium,0.18,9.0,2.8,No
+SKU17,Product Group 17,Slow,Low,0.23,12.0,3.5,No
+SKU18,Product Group 18,Slow,Low,0.25,15.0,4.0,No
+SKU19,Product Group 19,Slow,Low,0.24,14.0,3.8,Yes
+SKU20,Product Group 20,Slow,Low,0.22,18.0,4.5,No

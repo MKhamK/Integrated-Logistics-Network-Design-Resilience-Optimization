@@ -1,0 +1,5 @@
+PlantID,Name,Region,Latitude,Longitude,ProductionCapacity_per_week
+P01,Plant North,North,18.7883,98.9853,18500
+P02,Plant Central,Central,14.3532,100.5689,24000
+P03,Plant East,East,13.3611,101.1,21000
+P04,Plant South,South,9.1382,99.3215,15500
