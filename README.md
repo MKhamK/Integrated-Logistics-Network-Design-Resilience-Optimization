@@ -1,4 +1,4 @@
-# 4-Echelon Integrated Logistics Network Optimization
+# Integrated Logistics Network Design & Resilience Optimization
 
 **Strategic Network Design, Service Policy Trade-offs, and Disruption Resilience Analysis**
 
